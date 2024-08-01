@@ -18,6 +18,11 @@ class StatusResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-exclamation-triangle';
 
+    public static function getModelLabel(): string
+    {
+        return __('Status');
+    }
+
     public static function getNavigationGroup(): ?string
     {
         return __('Settings');

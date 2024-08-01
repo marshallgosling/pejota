@@ -27,6 +27,11 @@ class TagResource extends Resource
         return __(MenuGroupsEnum::SETTINGS->value);
     }
 
+    public static function getModelLabel(): string
+    {
+        return __('Tag');
+    }
+
     public static function form(Form $form): Form
     {
         return $form
