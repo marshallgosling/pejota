@@ -51,7 +51,7 @@
     "Has due date": "有到期日期",
     "Has end date": "有结束日期",
     "History": "历史记录",
-    "If checked the tradename will be used as the name of the client. Otherwise, the name will be used.": "如果选中，则将使用贸易名称作为客户���称。否则，将使用名称。",
+    "If checked the tradename will be used as the name of the client. Otherwise, the name will be used.": "如果选中，则将使用贸易名称作为客户名称。否则，将使用名称。",
     "If checked when a task is updated with a status of in progress phase, if the actual start date is not set, then it will be filled with the date of update.": "如果选中，当任务更新为进行中的状态时，如果实际开始日期未设置，则将使用更新日期填充。",
     "If checked when a task is updated with a status of closed phase, if the actual end date is not set, then it will be filled with the date of update.": "如果选中，当任务更新为关闭状态时，如果实际结束日期未设置，则将使用更新日期填充。",
     "If checked the tradename will be used as the name of the vendor. Otherwise, the name will be used.": "如果选中，则将使用贸易名称作为供应商名称。否则，将使用名称。",
