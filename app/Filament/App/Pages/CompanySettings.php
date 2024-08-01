@@ -105,7 +105,7 @@ class CompanySettings extends ModelSettingsPage implements HasModelSettings
                                 ->helperText(__('Set the default currency for the company.'))
                                 ->default('USD')
                                 ->options([
-                                    'USD' => 'USD',
+                                    'USD' => 'USD', 'CNY' => 'CNY', 'EUR' => 'EUR', 'GBP' => 'GBP', 'JPY' => 'JPY',
                                 ]),
                         ]),
                 ]),

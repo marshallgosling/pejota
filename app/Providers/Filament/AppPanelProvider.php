@@ -37,24 +37,7 @@ class AppPanelProvider extends PanelProvider
             ])
             ->renderHook(
                 PanelsRenderHook::FOOTER,
-                fn (): string => ' <div class="inline text-gray-400 justify-center max-w-full">
-                        By
-                        <a href="https://mazer.dev" target="_blank"
-                        >
-                           MAZER.DEV
-                        </a>
-                        |
-                        <a href="https://www.linkedin.com/company/mazer-dev" target="_blank"
-                        >
-                           LinkedIn
-                        </a>
-                        |
-                        <a href="https://github.com/mazer-dev/pejota" target="_blank"
-                        >
-                           Github
-                        </a>
-
-                </div>'
+                fn (): string => ' Century Litong '
             )
             ->maxContentWidth(MaxWidth::Full)
             ->sidebarCollapsibleOnDesktop()
